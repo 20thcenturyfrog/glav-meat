@@ -21,7 +21,7 @@
   flex: 1 0 auto;
   width: clamp(50px, 8.68vw, 125px);
   height: clamp(42.4px, 7.36vw, 106px);
-  background-image: url("/assets/images/logo_footer.svg");
+  background-image: url("./assets/images/logo_footer.svg");
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -66,7 +66,7 @@
   width: 14px;
   height: 20px;
   box-sizing: border-box;
-  background-image: url("/assets/images/map_icon_footer.svg");
+  background-image: url("./assets/images/map_icon_footer.svg");
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -74,7 +74,7 @@
 .footer__contacts__phone__icon {
   width: 20px;
   height: 20px;
-  background-image: url("/assets/images/phone-icon.svg");
+  background-image: url("./assets/images/phone-icon.svg");
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -84,7 +84,7 @@
 .footer__contacts__wa__icon {
   width: 20px;
   height: 20px;
-  background-image: url("/assets/images/whatsapp-icon.svg");
+  background-image: url("./assets/images/whatsapp-icon.svg");
   background-size: contain;
   background-repeat: no-repeat;
   filter: invert(85%) sepia(44%) saturate(104%) hue-rotate(345deg)
@@ -93,7 +93,7 @@
 .footer__contacts__vk__icon {
   width: 20px;
   height: 20px;
-  background-image: url("/assets/images/vk-icon.svg");
+  background-image: url("./assets/images/vk-icon.svg");
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;

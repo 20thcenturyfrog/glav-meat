@@ -1,11 +1,11 @@
 .offer {
-  background-image: url("/assets/images/offer.jpg");
+  background-image: url("./assets/images/offer.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 
   @media (max-width: 730px) {
-    background-image: url("/assets/images/offer_mobile.jpg");
+    background-image: url("./assets/images/offer_mobile.jpg");
   }
 }
 

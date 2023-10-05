@@ -17,6 +17,9 @@ Host the project directory on a web server.
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 
+## Project contributors
+[![Contributors](https://contrib.rocks/image?repo=20thcenturyfrog/glav-meat)](https://github.com/20thcenturyfrog/glav-meat/graphs/contributors)
+
 ## Figma layout
 
 https://www.figma.com/file/S4L5ZbXN8nySEYRRkzL78z/
